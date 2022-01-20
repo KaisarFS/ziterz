@@ -32,6 +32,7 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="NuxtJs" src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vuedotjs&logoColor=fff" />
